@@ -1,4 +1,5 @@
 # Trabalho realizado na cadeira Programação orientada a dados 2° semestre PUCRS.
+# Trabalho focado em uso de Matplotlib, Pandas e Numpy, afim de criar graficos usando dados que devem ser tratados antes de uso. 
 # Enunciado das questões segue abaixo:
 
 
